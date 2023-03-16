@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 100 100"
+	 style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{fill:#ED2939;}
+	.st2{fill:#FFFFFF;}
+	.st3{fill:none;}
+</style>
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  bottomLeftOrigin="true" height="100" width="150" x="0" y="0"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<g>
+	<defs>
+		<circle id="SVGID_1_" cx="50" cy="50" r="50"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g class="st0">
+		<rect y="0" class="st1" width="150" height="50"/>
+		<rect y="50" class="st2" width="150" height="50"/>
+		<path class="st2" d="M57.6,25c0,10.4-8.4,18.8-18.8,18.8C28.4,43.8,20,35.4,20,25S28.4,6.2,38.8,6.2c0,0,0,0,0,0
+			C49.2,6.2,57.6,14.6,57.6,25C57.6,25,57.6,25,57.6,25z"/>
+		<path class="st1" d="M63.5,25c0,9.8-8,17.8-17.8,17.8S28,34.8,28,25s8-17.8,17.8-17.8C55.6,7.2,63.5,15.2,63.5,25z"/>
+		<path class="st2" d="M41.1,25.5l-2.6-2l-2.6,2l1-3.2l-2.6-1.9l3.2,0l1-3.2l1,3.2l3.2,0l-2.6,1.9L41.1,25.5z"/>
+		<path class="st2" d="M61.2,25.5l-2.6-2l-2.6,2l1-3.2l-2.6-1.9l3.2,0l1-3.2l1,3.2l3.2,0l-2.6,1.9L61.2,25.5z"/>
+		<path class="st2" d="M51.2,18l-2.6-2L46,18l1-3.2l-2.6-1.9l3.2,0l1-3.2l1,3.2l3.2,0l-2.6,1.9L51.2,18z"/>
+		<path class="st2" d="M44.9,37.4l-2.6-2l-2.6,2l1-3.2l-2.6-1.9l3.2,0l1-3.2l1,3.2l3.2,0l-2.6,1.9L44.9,37.4z"/>
+		<path class="st2" d="M57.4,37.4l-2.6-2l-2.6,2l1-3.2l-2.6-1.9l3.2,0l1-3.2l1,3.2l3.2,0l-2.6,1.9L57.4,37.4z"/>
+		<circle class="st3" cx="50" cy="50" r="50"/>
+	</g>
+</g>
+</svg>
